@@ -1,0 +1,5 @@
+pa=int(input())
+t=int(input())
+i=float(input())
+amount=(pa*t*i)/100
+print("%.2f"%amount)
