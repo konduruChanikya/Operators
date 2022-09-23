@@ -1,0 +1,6 @@
+a=int(input())
+b=int(input())
+p=2*(a+b)
+ar=(a*b)
+print(f'Required length is {p} m')
+print(f'Required quantity of carpet is {ar} sqm')
