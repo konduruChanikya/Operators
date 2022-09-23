@@ -1,0 +1,4 @@
+x=int(input())
+n=int(input())
+power=pow(x,n)
+print(power)
