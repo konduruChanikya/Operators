@@ -1,0 +1,5 @@
+s=int(input())
+t=int(input())
+stu=(s//t)
+rem=(s%t)
+print(f'The number of students in each team is {stu} and left out is {rem}')
